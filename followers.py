@@ -5,6 +5,7 @@ import datetime
 print datetime.datetime.now()
 
 # TODO: Update twitter handle of the players
+# Wait until the Australian Open Ends, but right now Fognini must go.
 
 players = ["fabiofogna",
           "richardgasquet1",
